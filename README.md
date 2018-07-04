@@ -16,7 +16,7 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 Команды выполняются в Git Bash, который вроде бы устанавливается вместе с GitHub Desktop. Но не могу сказать точно, у меня он уже был установлен. Если что скачивается отсюда https://git-scm.com/downloads.<br>
 
 Если всё сделаете правильно ключики сгенерятся по умолчанию в<br>
-C:\Users\"YOUR_USER_NAME"\.ssh<br>
+C:\\Users\\"YOUR_USER_NAME"\\.ssh<br>
 где вместо "YOUR_USER_NAME" ваше имя пользователя.<br>
 Скопировать ключик в буфер обмена можно командой<br>
 clip < ~/.ssh/id_rsa.pub<br>
