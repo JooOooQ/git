@@ -1,6 +1,6 @@
 # git
 
-При работе с GitHub Desktop возникла следующая ошибка:
+При работе с GitHub Desktop возникла следующая ошибка:<br>
 fatal: unable to access 'https://github.com/JooOooQ/git.git/': schannel: next InitializeSecurityContext failed: Unknown error (0x80092012)
 Ошибка возникала при любых попытках соединится с github сервером (в частности я не мог склонировать репозиторий).
 Оказалось что дело в антивирусе Касперского. Выхода на текущий момент нашёл только два:
