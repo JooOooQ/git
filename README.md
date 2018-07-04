@@ -23,7 +23,7 @@ clip < ~/.ssh/id_rsa.pub<br>
 Далее следуйте шагам описанным здесь<br>
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/<br>
 
-Одна вещь в статье упущена. Это то что папка в которой лежит ключ должна также содержать файл known_hosts.<br>
+Одна вещь в статье упущена. Это то, что папка в которой лежит ключ, должна также содержать файл known_hosts.<br>
 В нём у меня прописано<br>
 github.com,192.30.253.113 "SSH KEY"<br>
 192.30.253.112 "SSH KEY"<br>
