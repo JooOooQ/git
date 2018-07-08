@@ -18,14 +18,14 @@
 ```shell
 git config --global http.sslVerify "false"
 ```
-
+-----------------------------
 Теперь немного о настройке **SSH ключа**.
 
 Сгенерировать ключ под **Windows** мне помогла вот эта статья:
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
-Команды выполняются в **Git Bash**, который вроде как устанавливается вместе с **GitHub Desktop**. Но если что, официальный установщик можно скачать также отсюда https://git-scm.com/downloads.
+Команды выполняются в **Git Bash**, который устанавливается вместе с **GitHub Desktop**. Но если что, официальный установщик можно скачать также отсюда https://git-scm.com/downloads.
 
 Если всё сделаете правильно, ключики сгенерируются по умолчанию в
 ```
