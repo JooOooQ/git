@@ -29,7 +29,7 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 
 Если всё сделаете правильно, ключики сгенерируются по умолчанию в
 ```
-C:\\Users\\<YOUR_USER_NAME>\\.ssh
+C:\Users\<YOUR_USER_NAME>\.ssh
 ```
 где вместо `<YOUR_USER_NAME>` ваше имя пользователя.
 
